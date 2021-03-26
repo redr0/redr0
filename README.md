@@ -1,4 +1,4 @@
-## Hola, I'm [R0JO!](https://pawan.live) 👋
+## Hola, I'm [R0JO!](https://twitter.com/ignR0JO) 👋
 
 <a href="https://twitter.com/ignR0JO">
   <img align="left" alt="redr0's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
