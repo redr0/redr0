@@ -17,6 +17,7 @@
 
 * I’m currently working on [@Omegacraft](https://omegacraft.cl) and [@CoralMC](https://twitter.com/CoralMCNET).  
 * I’m currently learning more about Phyton.
+* You are free to take whatever you want
 
 <br/>
 <br/>
