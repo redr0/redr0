@@ -1,4 +1,4 @@
-
+## Hola, I'm [R0JO!](https://pawan.live) 👋
 
 <a href="https://twitter.com/ignR0JO">
   <img align="left" alt="redr0's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -28,14 +28,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-<img align="left" alt="ignR0JO" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />[My Twitter] 
-
 <br />
 
 <a href="https://github.com/redr0">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=redr0&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
 </a>
-<a href="https://github.com/NulledCodeDev">
+<a href="https://github.com/redr0">
   <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=redr0&layout=compact&theme=radical />
 </a>
 
