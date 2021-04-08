@@ -15,7 +15,7 @@
 <br/>
 
 
-* I’m currently working on [@Omegacraft,](https://omegacraft.cl) [@CoralMC](https://twitter.com/CoralMCNET) and [@AstralMC](https://github.com/AstralMC).  
+* I’m currently working on [@Omegacraft](https://omegacraft.cl), [@CoralMC](https://twitter.com/CoralMCNET) and [@AstralMC](https://github.com/AstralMC)  
 * I’m currently learning more about Phyton.
 * You are free to take whatever you want
 
